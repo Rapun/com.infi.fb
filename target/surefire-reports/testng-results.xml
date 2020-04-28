@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49500" started-at="2020-04-27T11:51:50 IST" finished-at="2020-04-27T11:52:39 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49500" started-at="2020-04-27T11:51:50 IST" finished-at="2020-04-27T11:52:39 IST">
+      <class name="com.infi.fb.basics.FB">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infi.fb.basics.FB@2038ae61]" name="setUp" is-config="true" duration-ms="23339" started-at="2020-04-27T11:51:50 IST" finished-at="2020-04-27T11:52:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verifyurl()[pri:0, instance:com.infi.fb.basics.FB@2038ae61]" name="Verifyurl" duration-ms="100" started-at="2020-04-27T11:52:31 IST" finished-at="2020-04-27T11:52:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyurl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infi.fb.basics.FB@2038ae61]" name="tearDown" is-config="true" duration-ms="910" started-at="2020-04-27T11:52:32 IST" finished-at="2020-04-27T11:52:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.infi.fb.basics.FB -->
+      <class name="com.infi.fb.basics.Google">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infi.fb.basics.Google@3c0f93f1]" name="setUp" is-config="true" duration-ms="15509" started-at="2020-04-27T11:52:13 IST" finished-at="2020-04-27T11:52:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verifytitle()[pri:0, instance:com.infi.fb.basics.Google@3c0f93f1]" name="Verifytitle" duration-ms="1244" started-at="2020-04-27T11:52:31 IST" finished-at="2020-04-27T11:52:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifytitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infi.fb.basics.Google@3c0f93f1]" name="tearDown" is-config="true" duration-ms="6300" started-at="2020-04-27T11:52:33 IST" finished-at="2020-04-27T11:52:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.infi.fb.basics.Google -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
